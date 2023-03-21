@@ -1,0 +1,17 @@
+.inicio {
+    background-image: url(../Imagens/img-mission-background.jpg);
+    width: 1200px;
+    height: 700px;
+    margin: auto;
+    align-items: center;
+    display: flex;
+}
+
+#ourMission {
+    background-color: black;
+    width:100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

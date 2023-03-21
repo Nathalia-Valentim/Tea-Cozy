@@ -1,0 +1,12 @@
+.theTea {
+    text-align: left;
+    margin-left: 20px;
+}
+
+#ultimaFooter {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin: 10px;
+}
